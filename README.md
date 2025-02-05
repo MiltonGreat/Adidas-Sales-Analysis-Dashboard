@@ -4,6 +4,8 @@
 
 The Adidas Sales Analysis Dashboard is a data-driven project designed to provide valuable insights into Adidas’s sales performance across different regions, sales methods, and retail partners. Leveraging Microsoft Excel, this project transforms raw sales data into interactive visualizations, enabling decision-makers to identify key trends and optimize business strategies.
 
+<img width="1381" alt="Dashboard Image" src="https://github.com/user-attachments/assets/39c5126e-4344-4a12-90fc-cc4c68d51b22" />
+
 ### Key Insights & Features
 
 📊 Sales Analysis in USD ($)
