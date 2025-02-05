@@ -30,27 +30,27 @@ The Adidas Sales Analysis Dashboard is a data-driven project designed to provide
 ### Why This Project Matters
 
 This project is essential for understanding Adidas’s sales performance and providing data-driven insights for:
-✔ Optimizing Sales Strategies – Identifying the most profitable regions and sales channels.
-✔ Enhancing Business Decision-Making – Providing a clear financial overview for stakeholders.
-✔ Improving Market Expansion Plans – Assessing performance trends across different locations.
+- ✔ Optimizing Sales Strategies – Identifying the most profitable regions and sales channels.
+- ✔ Enhancing Business Decision-Making – Providing a clear financial overview for stakeholders.
+- ✔ Improving Market Expansion Plans – Assessing performance trends across different locations.
 
 ### What I Learned
 
-📌 Data Cleaning & Preparation – Ensured data accuracy and consistency before analysis.
-📌 Pivot Tables & Charts – Used to summarize and visualize key performance indicators.
-📌 Interactive Dashboards – Applied slicers and filters for real-time data exploration.
-📌 Retail Performance Analysis – Evaluated profitability and effectiveness of different sales channels.
+- 📌 Data Cleaning & Preparation – Ensured data accuracy and consistency before analysis.
+- 📌 Pivot Tables & Charts – Used to summarize and visualize key performance indicators.
+- 📌 Interactive Dashboards – Applied slicers and filters for real-time data exploration.
+- 📌 Retail Performance Analysis – Evaluated profitability and effectiveness of different sales channels.
 
 ### Tools & Techniques Used
 
-🛠 Microsoft Excel – Primary tool for data analysis and dashboard creation.
-📊 Pivot Tables & Charts – For summarizing sales performance.
-🔍 Data Visualization – Designed interactive bar graphs, slicers, and KPIs.
-📈 Financial & Sales Analytics – Analyzed sales trends, regional insights, and profit metrics.
+- 🛠 Microsoft Excel – Primary tool for data analysis and dashboard creation.
+- 📊 Pivot Tables & Charts – For summarizing sales performance.
+- 🔍 Data Visualization – Designed interactive bar graphs, slicers, and KPIs.
+- 📈 Financial & Sales Analytics – Analyzed sales trends, regional insights, and profit metrics.
 
 ### How to Use the Dashboard
 
-1️⃣ Open the Excel file containing the Adidas sales dataset.
-2️⃣ Navigate to the Dashboard tab to explore visualizations.
-3️⃣ Use slicers to filter data by region, sales method, or retailer.
-4️⃣ Analyze key metrics, trends, and performance indicators.
+1. Open the Excel file containing the Adidas sales dataset.
+2. Navigate to the Dashboard tab to explore visualizations.
+3. Use slicers to filter data by region, sales method, or retailer.
+4. Analyze key metrics, trends, and performance indicators.
